@@ -14,7 +14,7 @@ Interacting with smart contract by using metamask & ethereumjs libs
 # #3: Ethereum core 1
 * Go-ethereum codebase
     * Code:
-    * Slides:
+    * Slides: [https://github.com/phukq/blockchain-coffee/blob/master/geth-codebase.pdf](https://github.com/phukq/blockchain-coffee/blob/master/geth-codebase.pdf)
 * Block processing in go-ethereum
     * Code:
     * Slides:
