@@ -17,7 +17,7 @@ Interacting with smart contract by using metamask & ethereumjs libs
     * Slides: [https://github.com/phukq/blockchain-coffee/blob/master/geth-codebase.pdf](https://github.com/phukq/blockchain-coffee/blob/master/geth-codebase.pdf)
 * Block processing in go-ethereum
     * Code:
-    * Slides:
+    * Slides: [https://github.com/congle-ibl/eth-research-docs/blob/master/ethereum-process-block-data-on-fullnode.pdf](https://github.com/congle-ibl/eth-research-docs/blob/master/ethereum-process-block-data-on-fullnode.pdf)
 * Consensus in go-ethereum
     * Code:
     * Slides:
