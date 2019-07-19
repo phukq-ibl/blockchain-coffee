@@ -21,3 +21,10 @@ Interacting with smart contract by using metamask & ethereumjs libs
 * Consensus in go-ethereum
     * Code:
     * Slides:
+# #4: Ethereum core 2
+* ethereum trie
+    * Code: [https://github.com/phukq/ethnoob-geth-example/tree/master/state](https://github.com/phukq/ethnoob-geth-example/tree/master/state)
+    * Slides: [https://github.com/phukq/blockchain-coffee/blob/master/ethereum-trie.pdf](https://github.com/phukq/blockchain-coffee/blob/master/ethereum-trie.pdf)
+* ethereum peer protocol
+    * Code: [https://github.com/phukq/ethnoob-geth-example/tree/master/protocol](https://github.com/phukq/ethnoob-geth-example/tree/master/protocol)
+    * Slides: [https://github.com/phukq/blockchain-coffee/blob/master/ethereum-network-protocol.pdf](https://github.com/phukq/blockchain-coffee/blob/master/ethereum-network-protocol.pdf)
